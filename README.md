@@ -1,3 +1,5 @@
+原文链接:https://blog.csdn.net/2401_84875710/article/details/155134450
+
 # shell-scripting
 
 Shell 脚本编程：基础、变量、条件测试、流程控制、函数与数组、grep/sed/awk、LNMP 自动化脚本
